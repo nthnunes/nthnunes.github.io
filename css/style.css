@@ -365,7 +365,6 @@ a.image{
 .bg-yellow {
     background: #dccF35;
 }
-
 .bg-black {
     background-color: #18191d;
 }
@@ -4237,7 +4236,7 @@ ul.shop-description li::before {
 
 /* some background images */
 .bg-img-1 {
-    background: url("../img/banner.jpg") no-repeat;
+    background-color: #080914;
 }
 
 /* background setting */
